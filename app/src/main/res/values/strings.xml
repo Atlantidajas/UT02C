@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Registro de usuarios - UT02C</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="registration_no">No registrado</string>
+
+
+    <string name="student_name">Nombre</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Teléfono</string>
+    <string name="cross_image_content_description">Eliminar usuario de la base datos</string>
+    <string name="empty_student_list_message">Listado de usuarios vacía.</string>
+
+    <string name="update">Modificar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="create_button">Crear</string>
+    <string name="all_delete">Borrar todo</string>
+    <string name="edit_button_description">Información de usuario</string>
+</resources>
